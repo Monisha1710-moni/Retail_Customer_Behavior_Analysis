@@ -20,6 +20,20 @@ This project presents an end-to-end retail customer behavior analysis using Pyth
 4. Connected PostgreSQL with Power BI.
 5. Created an interactive dashboard to visualize customer behavior and sales trends.
 
+CSV Dataset
+      │
+      ▼
+Python (Cleaning & Analysis)
+      │
+      ▼
+PostgreSQL Database
+      │
+      ▼
+Power BI Dashboard
+      │
+      ▼
+Insights & Visualizations
+
 📊 Dashboard Features
 
 - Customer ID
