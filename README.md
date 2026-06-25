@@ -1,4 +1,4 @@
-Retail Customer Behavior Analysis
+## Retail Customer Behavior Analysis
 
 📌 Project Overview
 
@@ -35,7 +35,7 @@ This project presents an end-to-end retail customer behavior analysis using Pyth
 - Frequency of Purchases
 
 📸 Dashboard Preview
-
+![Retail Customer Behavior Analysis](Customer_behavior_Dashboard.png)
 
 👩‍💻 Author
 
