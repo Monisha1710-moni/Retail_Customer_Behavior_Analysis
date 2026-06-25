@@ -37,6 +37,14 @@ This project presents an end-to-end retail customer behavior analysis using Pyth
 📸 Dashboard Preview
 ![Retail Customer Behavior Analysis](Customer_behavior_Dashboard.png)
 
+
+## 🚀 How to Use
+
+1. Download or clone this repository.
+2. Open the Jupyter Notebook to explore the data preprocessing steps.
+3. Execute the SQL scripts in PostgreSQL to create and populate the database.
+4. Open the Power BI (.pbix) file to view the interactive dashboard.
+
 👩‍💻 Author
 
 Monisha K
